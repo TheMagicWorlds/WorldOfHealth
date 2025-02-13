@@ -14,7 +14,7 @@
 
 Welcome to Magic Worlds, where everything is possible, and the only limit is your imagination and dreams. Forever free, family-friendly, and open source.
 
-_World of Health_is an interactive sanctuary in Magic Worlds where users design balanced diets, master mindfulness practices, and unlock the science of physical vitality. Transform your well-being through play, not pressure. 💪🥗💤.
+World of Health is an interactive sanctuary in Magic Worlds where users design balanced diets, master mindfulness practices, and unlock the science of physical vitality. Transform your well-being through play, not pressure. 💪🥗💤.
 
 
 ## **🚀How to Access Finance World**<a name="How-to-access"></a>
@@ -29,19 +29,19 @@ _World of Health_is an interactive sanctuary in Magic Worlds where users design 
 
 ## **🎮Gameplay & Features**<a name="features"></a>
 
--🌱 Personalized Meal Planner – Design balanced diets using virtual ingredients and nutrition science.
+🌱 Personalized Meal Planner – Design balanced diets using virtual ingredients and nutrition science.
 
--🏋️♀️ Fitness Journey Simulator – Follow AI-guided workouts and track progress in strength, endurance, and flexibility.
+🏋️♀️ Fitness Journey Simulator – Follow AI-guided workouts and track progress in strength, endurance, and flexibility.
 
--🧘♂️ Mindfulness Quests – Complete daily missions to reduce stress, improve sleep, and boost mental resilience.
+🧘♂️ Mindfulness Quests – Complete daily missions to reduce stress, improve sleep, and boost mental resilience.
 
--🩺 Wellness Scenario Challenges – Navigate real-world health dilemmas (e.g., pandemic prep, allergy management) and learn preventive care.
+🩺 Wellness Scenario Challenges – Navigate real-world health dilemmas (e.g., pandemic prep, allergy management) and learn preventive care.
 
--🥦 Nutrition Lab Experiments – Mix virtual superfoods, decode macros, and discover recipes tailored to your goals.
+🥦 Nutrition Lab Experiments – Mix virtual superfoods, decode macros, and discover recipes tailored to your goals.
 
--💤 Sleep & Recovery Hub – Optimize rest cycles with guided meditations and sleep-tracking tools.
+💤 Sleep & Recovery Hub – Optimize rest cycles with guided meditations and sleep-tracking tools.
 
--🌍 Global Health Expeditions – Explore how different cultures approach wellness, from herbal remedies to movement practices.
+🌍 Global Health Expeditions – Explore how different cultures approach wellness, from herbal remedies to movement practices.
   
 
 
@@ -100,7 +100,7 @@ FinanceWorld3D_Desktop/
 
 ## **🤝Community Contributions**<a name="contributions"></a>
 
-_World of Health_ is part of the open-source _Magic Worlds_ project. You can contribute by:
+_World of Health is part of the open-source _Magic Worlds_ project. You can contribute by:
 
 - Forking the repository and submitting pull requests.
 - Reporting bugs and suggesting improvements.
