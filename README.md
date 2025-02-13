@@ -1,1 +1,1 @@
-# World-of-Health
+# WorldOfHealth
