@@ -3,7 +3,7 @@
 ## **🧾Table of Contents**
 
 - [📖 Introduction](#Introduction)
-- [🚀How to Access World of Health](#How-to-access)
+- [🚀How to Access *World of Health*](#How-to-access)
 - [🎮Gameplay & Features](#features)
 - [⚙️Technical Details](#techdetails)
 - [🗂️Repository Structure](#repo-structure)
@@ -14,7 +14,9 @@
 
 Welcome to Magic Worlds, where everything is possible, and the only limit is your imagination and dreams. Forever free, family-friendly, and open source.
 
-World of Health is an interactive sanctuary in Magic Worlds where users design balanced diets, master mindfulness practices, and unlock the science of physical vitality. Transform your well-being through play, not pressure. 💪🥗💤.
+*World of Health* is an interactive sanctuary in Magic Worlds where users design balanced diets, master 
+mindfulness practices, and unlock the science of physical vitality. Transform your well-being through play, not 
+pressure. 💪🥗💤.
 
 
 ## **🚀How to Access Finance World**<a name="How-to-access"></a>
@@ -24,7 +26,7 @@ World of Health is an interactive sanctuary in Magic Worlds where users design b
 3. **Head straight up to the bridge** and enter by pressing `E`.
 4. **Once in the bridge, climb up the platform** to access the travel console.
 5. **Access the console** by entering the passcode [456]`.
-6. **Select World of Health** in the World Hub.
+6. **Select *World of Health*** in the World Hub.
 7. **Start Exploring**: Dive into nutrition, fitness, and mental wellbeing strategies that empower you to thrive. 🥗💪🧠.
 
 ## **🎮Gameplay & Features**<a name="features"></a>
@@ -100,7 +102,7 @@ FinanceWorld3D_Desktop/
 
 ## **🤝Community Contributions**<a name="contributions"></a>
 
-_World of Health is part of the open-source _Magic Worlds_ project. You can contribute by:
+_*World of Health* is part of the open-source _Magic Worlds_ project. You can contribute by:
 
 - Forking the repository and submitting pull requests.
 - Reporting bugs and suggesting improvements.
