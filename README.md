@@ -19,7 +19,7 @@ mindfulness practices, and unlock the science of physical vitality. Transform yo
 pressure. 💪🥗💤.
 
 
-## **🚀How to Access Finance World**<a name="How-to-access"></a>
+## **🚀How to Access *World of Health***<a name="How-to-access"></a>
 
 1. **Launch Magic Worlds** and enter your spaceship.
 2. **Talk to the Vice Captain** by walking up ahead and pressing `E`.
