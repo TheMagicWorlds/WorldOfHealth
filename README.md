@@ -1,4 +1,4 @@
-# **World of Health| Nourish, Thrive, Transform Your Wellness 🌱**
+# **World of Health| Cure, Collaborate, Conquer Health Challenges 💊**
 
 ## **🧾Table of Contents**
 
