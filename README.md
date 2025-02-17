@@ -72,7 +72,7 @@ pressure. 💪🥗💤.
 
 ### **🖥️Tech Stack**
 
-_ Finance Worlds_ is built using the following technologies:
+*World of Health* is built using the following technologies:
 - **Game Engine**: Godot Game Engine
 - **Programming Languages**: GDScript, Python, JavaScript
 - **Database**: MySQL, MongoDB
@@ -91,7 +91,7 @@ _ Finance Worlds_ is built using the following technologies:
 ## **🗂️Repository Structure**<a name="repo-structure"></a>
 
 ```plaintext
-FinanceWorld3D_Desktop/
+WorldofHealth/
 │-- assets/        # Game assets (financial data, visuals, animations)
 │-- src/           # Main game source code
 │-- docs/          # Documentation files
@@ -102,7 +102,7 @@ FinanceWorld3D_Desktop/
 
 ## **🤝Community Contributions**<a name="contributions"></a>
 
-_*World of Health* is part of the open-source _Magic Worlds_ project. You can contribute by:
+*World of Health* is part of the open-source *Magic Worlds* project. You can contribute by:
 
 - Forking the repository and submitting pull requests.
 - Reporting bugs and suggesting improvements.
